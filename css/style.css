@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Oswald|Playfair+Display");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+body {
+	font-family: 'Oswald', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'Playfair Display', serif;
+	font-weight: bold;
+}
+
+h2{
+	font-family: 'Oswald', sans-serif;
+	font-size: 23px;
+	font-weight: normal;
+}
+
+a{
+	text-decoration: none;
+}
+
+
+
